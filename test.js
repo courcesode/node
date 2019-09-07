@@ -8,5 +8,5 @@ const mymodule = ()=>{
   //i will be exported.... 
 };
 
-module.exports = mymodule; 
+module.exports.mymodule = mymodule; 
 
